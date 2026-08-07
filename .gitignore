@@ -1,0 +1,4 @@
+.zed/
+.zpkg.lock
+__pycache__/
+*.pyc
